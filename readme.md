@@ -2,13 +2,17 @@
 
 X3 Chatbot is a smart and stylish AI assistant built for the web. It allows users to chat naturally, upload files for better context, and receive quick, intelligent responses. With a clean design, light/dark theme toggle, and mobile-friendly layout, it’s great for brainstorming ideas, solving problems, or just having fun conversations. The bot is powered by the Google Gemini API and runs entirely in your browser—no backend setup required.
 
----
+
+
+
 
 ## 🖼️ App Preview
 
 [X3 Chatbot Screenshot](x3chatbot.png)
 
----
+
+
+
 
 ## ✨ Features
 
@@ -19,7 +23,8 @@ X3 Chatbot is a smart and stylish AI assistant built for the web. It allows user
 - 📱 Fully responsive and mobile-friendly design  
 - ⚡ Quick-start suggestion prompts  
 
----
+
+
 
 ## 🚀 How to Use
 
@@ -27,13 +32,17 @@ X3 Chatbot is a smart and stylish AI assistant built for the web. It allows user
 2. Replace the demo API key in `script.js` with your own Google Gemini API key:
    const API_KEY = "YOUR_API_KEY_HERE";
 
----
+
+
+
 
 ## 🧪 API Key Notes
 This project requires a Google Gemini API key.
 You can get one from Google AI Studio.
 
----
+
+
+
 
 ## 💡 How it Works
 1. Gemini API Integration
@@ -48,7 +57,9 @@ You can get one from Google AI Studio.
 4. Theme Switching
         A toggle button saves light/dark theme preference using localStorage.
 
----
+
+
+
 
 ## 🧩 Tech Stack
 
@@ -57,9 +68,11 @@ CSS3 (with custom themes)
 Vanilla JavaScript
 Google Gemini API (Generative Language API)
 
----
+
+
 
 ## 📦 Code Structure
+
 
 x3chatbot
 ├── index.html         # Main app structure
@@ -70,12 +83,15 @@ x3chatbot
 
 
 
+
 ## 👨‍💻 About the Creator
 
 Made with ❤️ by Chandru KB
 Check out more of my work on my portfolio(https://candyx3.github.io/portfolio/).
 
----
+
+
+
 
 ## ⚠️ Disclaimer
 X3 is powered by AI and may not always get things right. Always double-check important info.
