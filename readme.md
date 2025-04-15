@@ -68,7 +68,7 @@ x3chatbot
 ├── image.png          # Avatar/favicon image
 ├── x3chatbot.png      # App screenshot
 
----
+
 
 ## 👨‍💻 About the Creator
 
