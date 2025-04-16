@@ -12,6 +12,12 @@ X3 Chatbot is a smart and stylish AI assistant built for the web. It allows user
 
 
 
+##💻Live Demo
+
+Web - https://x3chat.netlify.app/
+
+
+
 
 
 ## ✨ Features
